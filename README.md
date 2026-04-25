@@ -8,14 +8,14 @@ Akane is a small project that allows you to use misconfigured WordPress sites to
 
 For **Linux**/**Mac**
 ```
-git clone dépot
+git clone https://github.com/tryagainbelly/Akane.git
 cd akane
 go build -o akane main.go
 ./akane
 ```
 For **Windows**
 ```
-git clone dépot
+git clone https://github.com/tryagainbelly/Akane.git
 cd akane
 go build -o akane.exe main.go
 akane.exe
