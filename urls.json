@@ -1,0 +1,10 @@
+[
+    {
+        "relay": "http://localhost/xmlrpc.php",
+        "article_relay": "http://localhost/hello-world/"
+    },
+    {
+        "relay": "http://localhost/xmlrpc.php",
+        "article_relay": "http://localhost/hello-world/"
+    }
+]
